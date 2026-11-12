@@ -1,0 +1,6 @@
+{
+  "name": "C8 Elite Analysis Tool",
+  "description": "Instant full-stack analysis tool for synthetic indices, Deriv real-time tick analysis, digit heatmaps, accumulator signals, and risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
